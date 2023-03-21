@@ -18,6 +18,8 @@ public class Notas_Insam_ {
         System.out.println("hola mundo");
         
         System.out.println("adios mundo");
+        
+        System.out.println("hola, otra vez");
         // TODO code application logic here
     }
     
