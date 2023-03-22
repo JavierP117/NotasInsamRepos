@@ -20,6 +20,9 @@ public class Notas_Insam_ {
         System.out.println("adios mundo");
         
         System.out.println("hola, otra vez");
+        
+        System.out.println("hola, cusbais");
+        
         // TODO code application logic here
     }
     
