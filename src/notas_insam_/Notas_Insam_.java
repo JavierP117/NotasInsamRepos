@@ -31,6 +31,8 @@ public class Notas_Insam_ {
         
         System.out.println("hola javier");
         
+        System.out.println("hola papu");
+        
         // TODO code application logic here
     }
     
