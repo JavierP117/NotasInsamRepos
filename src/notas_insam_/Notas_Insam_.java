@@ -23,6 +23,8 @@ public class Notas_Insam_ {
         
         System.out.println("hola, cusbais");
         
+        System.out.println("hola, de nuevo");
+        
         // TODO code application logic here
     }
     
