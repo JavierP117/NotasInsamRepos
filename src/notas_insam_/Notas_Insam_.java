@@ -27,6 +27,8 @@ public class Notas_Insam_ {
         
         System.out.println("hola, gordo");
         
+        System.out.println("Soy Pro");
+        
         // TODO code application logic here
     }
     
